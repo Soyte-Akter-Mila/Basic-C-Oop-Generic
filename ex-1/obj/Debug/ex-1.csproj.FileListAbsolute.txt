@@ -1,0 +1,7 @@
+E:\MILA\c#ev\1294109_bc_c#\ex-1\bin\Debug\ex-1.exe.config
+E:\MILA\c#ev\1294109_bc_c#\ex-1\bin\Debug\ex-1.exe
+E:\MILA\c#ev\1294109_bc_c#\ex-1\bin\Debug\ex-1.pdb
+E:\MILA\c#ev\1294109_bc_c#\ex-1\obj\Debug\ex-1.csproj.AssemblyReference.cache
+E:\MILA\c#ev\1294109_bc_c#\ex-1\obj\Debug\ex-1.csproj.CoreCompileInputs.cache
+E:\MILA\c#ev\1294109_bc_c#\ex-1\obj\Debug\ex-1.exe
+E:\MILA\c#ev\1294109_bc_c#\ex-1\obj\Debug\ex-1.pdb

@@ -1,0 +1,7 @@
+E:\MILA\c#ev\1294109_bc_c#\oop generic\obj\Debug\oop generic.csproj.AssemblyReference.cache
+E:\MILA\c#ev\1294109_bc_c#\oop generic\obj\Debug\oop generic.csproj.CoreCompileInputs.cache
+E:\MILA\c#ev\1294109_bc_c#\oop generic\bin\Debug\oop generic.exe.config
+E:\MILA\c#ev\1294109_bc_c#\oop generic\bin\Debug\oop generic.exe
+E:\MILA\c#ev\1294109_bc_c#\oop generic\bin\Debug\oop generic.pdb
+E:\MILA\c#ev\1294109_bc_c#\oop generic\obj\Debug\oop generic.exe
+E:\MILA\c#ev\1294109_bc_c#\oop generic\obj\Debug\oop generic.pdb
