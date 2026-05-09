@@ -1,6 +1,6 @@
 # 🚗 OOP Generic — C# Vehicle Management
 
-A **C# .NET Framework 4.8** console application demonstrating core Object-Oriented Programming (OOP) principles and **Generics** through a vehicle hierarchy system.
+A C# .NET Framework 4.8 console application demonstrating core Object-Oriented Programming (OOP) principles and Generics through a vehicle hierarchy system.
 
 ## 🎯 What This Project Covers
 
@@ -61,7 +61,6 @@ oop_generic/
 ├── genericdetailimp.cs         # Implements Igenericdetail<T> — uses type checking
 │
 └── Program.cs                  # Entry point — demo of car and motorcycle
-
 
 ## 🔍 Key Design Decisions
 
